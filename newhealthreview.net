@@ -25,19 +25,19 @@
       <div class="collapse navbar-collapse" id="navbarsExampleDefault">
         <ul class="navbar-nav mr-auto">
           <li class="nav-item">
-            <a class="nav-link" href="https://www.cbdmall.com/pages/sweet-deal?offer_id=105&aff_id=6428&url_id=55">International</a>
+            <p style="color:white; margin-right: 15px;">International</p>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="https://www.cbdmall.com/pages/sweet-deal?offer_id=105&aff_id=6428&url_id=55">Politics</a>
+            <p style="color:white; margin-right: 15px;">Politics</p>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="https://www.cbdmall.com/pages/sweet-deal?offer_id=105&aff_id=6428&url_id=55">Advertorial</a>
+            <p style="color:white; margin-right: 15px;">Advertorial</p>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="https://www.cbdmall.com/pages/sweet-deal?offer_id=105&aff_id=6428&url_id=55">Lifestyle</a>
+            <p style="color:white; margin-right: 15px;">Lifestyle</p>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="https://www.cbdmall.com/pages/sweet-deal?offer_id=105&aff_id=6428&url_id=55">Entertainment</a>
+            <p style="color:white;margin-right: 15px;">Entertainment</p>
           </li>
         </ul>
 
@@ -55,7 +55,7 @@
             <img class="mb-20 img-fluid" src="./Health-News_files/cbd-featured-in.png" alt="Featured In">
             <p class="lead text-primary font-weight-bold">Learn about the safe, natural alternative to prescription drugs backed by science and proven to work.</p>
             <p class="mb-40">When we hear the words marijuana or hemp, we have been taught to only think of the adverse effects associated with the plant. However, what the media and pharmaceutical companies don’t want you to know is that marijuana is actually made up of two main components: CBD and THC. Learning to differentiate between these two compounds is huge, as one has been touted as a <strong class="text-primary">“miracle cure”</strong> that has helped millions around the globe with a wide range of health conditions, including seizures, arthritis, anxiety, and much more.</p>
-            <small class="d-block font-weight-bold mb-40">By <span class="text-primary text-uppercase">Lucrecia Calder</span> and <span class="text-primary text-uppercase">Guillermo Raffaele</span><br>Nov 12, 2018, 8:37 AM ET</small>
+            <small class="d-block font-weight-bold mb-40">By <span class="text-primary text-uppercase">Lucrecia Calder</span> and <span class="text-primary text-uppercase">Guillermo Raffaele</span><br>June 12, 2020, 10:14 AM ET</small>
             <div class="video mb-20" data-embed="359130942" style="padding-top: 41.7%">
               <div class="play-button"></div>
               <img src="./Health-News_files/video-discover-the-plant-based-miracle-cure-revolutionizing-the-health-industry.jpg">
@@ -208,7 +208,7 @@
             </div>
             <div class="d-flex justify-content-center">
               <img class="align-self-start img-fluid mr-10" src="./Health-News_files/limited-offer-checkmark.png">
-              <p class="text-center font-weight-bold mb-40"> Update: <span class="text-secondary">Only 6 Packages Still Available.</span><br>Ends: <span class="text-secondary">Wednesday, May 6, 2020</span></p>
+              <p class="text-center font-weight-bold mb-40"> Update: <span class="text-secondary">Only 6 Packages Still Available.</span><br>Ends: <span class="text-secondary">Wednesday, November 4, 2020</span></p>
             </div>
 
             <!-- COMMENTS -->
@@ -320,7 +320,7 @@
                     <span class="comment-time">2 hours ago</span>
                   </div>
                   <div class="comment-text">
-                    <p>I’ve heard a lot of great stuff about Diamond CBD, pretty excited to finally try this! Thank you!</p>
+                    <p>I love this hemp extract! With my having multiple sclerosis, the gummies and oils really help keep me moving.</p>
                   </div>
                   <span class="comment-actions">Reply . 14 . Like</span>
                 </div>
@@ -352,7 +352,7 @@
                     <span class="comment-time">4 hours ago</span>
                   </div>
                   <div class="comment-text">
-                    <p>I'm going to give these products a chance to work their magic on me. I've tried everything out there and so far nothing has been good enough to help me.</p>
+                    <p>I love their products, especially the gummies. They taste great and help control anxiety. I have chronic issues due to 2 previous cancer diagnosis, and these products work great for me!</p>
                   </div>
                   <span class="comment-actions">Reply . 20 . Like</span>
                 </div>
